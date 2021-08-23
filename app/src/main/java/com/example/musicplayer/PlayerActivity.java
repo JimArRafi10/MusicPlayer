@@ -246,7 +246,7 @@ public class PlayerActivity extends AppCompatActivity {
             }
         });
 
-        btnff.setOnClickListener(new View.OnClickListener() {
+        btnfr.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 if(mediaPlayer.isPlaying())
